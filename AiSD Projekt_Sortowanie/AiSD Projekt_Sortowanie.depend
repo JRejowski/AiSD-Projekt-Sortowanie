@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620995844 source:c:\users\yonasz\desktop\programy\aisd projekt_sortowanie\aisd projekt_sortowanie\algorytmy.c
+	"algorytmy.h"
+
+1620996003 c:\users\yonasz\desktop\programy\aisd projekt_sortowanie\aisd projekt_sortowanie\algorytmy.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1620995974 source:c:\users\yonasz\desktop\programy\aisd projekt_sortowanie\aisd projekt_sortowanie\main.c
+	<stdio.h>
+	"algorytmy.h"
+
